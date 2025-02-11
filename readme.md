@@ -7,7 +7,7 @@
 
 </h1>
 
-<p> 🔦 **We develop application notes for our products on different topics such as:- ** 
+<p>🔦 ###We develop application notes for our products on different topics such as
   
  </p>
  
