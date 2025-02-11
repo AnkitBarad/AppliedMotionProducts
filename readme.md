@@ -1,5 +1,15 @@
 <h1>Hi 👋, we are Applied Motion Products, we manufactures Motion Control products, we are based in Morgan Hill, CA, USA</h1>
-<p>We develop application notes for our products on different topics such as Python, PLC programming, HMI programming, LabView, Q program. </p>
+<p>We develop application notes for our products on different topics such as:-  
+  
+**Python**
+
+**PLC programming**
+  
+**HMI programming**
+  
+**LabView**
+  
+**Q program**. </p>
 
   <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
 
