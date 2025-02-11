@@ -1,30 +1,29 @@
 <h1>Hi 👋, we are Applied Motion Products, https://www.applied-motion.com/s/
-  
+
+
+![amp1_GIF](https://github.com/user-attachments/assets/a992af7f-3eba-45ef-8b38-71c8f4c3a7fe)
+
+
 
 </h1>
 
 <p> 🔦 We develop application notes for our products on different topics such as:-  
   
-
-
-
-  
-
-  
  </p>
-
+ 
+  
 ✨**Python**
-
-
+  
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
 
 
 
+
+  
 ✨**PLC programming**
 
-
+  
 ![Screenshot 2025-02-11 114612](https://github.com/user-attachments/assets/8522dd9a-73b3-488b-bdf7-83e3a93d75fb)
-
 
 
 ✨**HMI programming**
@@ -33,19 +32,14 @@
 ![hmis](https://github.com/user-attachments/assets/00f9f3d1-df92-49be-b4a7-bbe5c6e81e5d)
 
 
-
 ✨**LabView**
-
 
 ![labviewww](https://github.com/user-attachments/assets/54ef95bb-8ff5-4c8d-85d3-4eb9bdaa92d2)
 
 
-
 ✨**Q program**
 
-
 ![Screenshot 2025-02-11 095346](https://github.com/user-attachments/assets/2f0e1ab1-17aa-4a78-967b-d4af9db44888)
-
 
 
 <h2>✒️ Quick links</h2>
