@@ -1,5 +1,5 @@
 <h1>Hi 👋, we are Applied Motion Products, we manufactures Motion Control products, we are based in Morgan Hill, CA, USA</h1>
-<p>We develop application notes for our products on different topics such as:-  
+<p> 🔦 We develop application notes for our products on different topics such as:-  
   
 **Python**
 
@@ -11,7 +11,8 @@
   
 **Q program**. </p>
 
-  <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
+
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
 
 
 ![Screenshot 2025-02-11 114612](https://github.com/user-attachments/assets/8522dd9a-73b3-488b-bdf7-83e3a93d75fb)
