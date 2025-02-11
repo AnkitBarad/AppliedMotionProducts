@@ -1,2 +1,2 @@
 This is Applied Motion Products official GitHub account. 
-User can download and use latest PLC, HMI and Q program projects. 
+User can download and use PLC, HMI, LabView, Python and Q program projects. 
