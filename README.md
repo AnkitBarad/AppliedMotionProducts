@@ -2,6 +2,10 @@
 <p>We develop application notes for our products on different topics such as Python, PLC programming, HMI programming, LabView, Q program. </p>
 <h2>🚀 User can use our products on different platforms</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
+![Image alt](https://github.com/AppliedMotionProducts/AppliedMotionProducts/blob/6d19e233a9b2cedf36795080442bd4b7df945003/LabVIEW_Logo.jpg)
+
+
+
 <h2>✒️ Quick links</h2>
 <ul>
 <li><a target="_blank" href="https://www.applied-motion.com/s/support/application-notes">Checkout our website for different application notes</a></li>
