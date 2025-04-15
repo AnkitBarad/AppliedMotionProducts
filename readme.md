@@ -4,7 +4,7 @@
 ![amp1_GIF](https://github.com/user-attachments/assets/a992af7f-3eba-45ef-8b38-71c8f4c3a7fe)
 
 
-🔦We develop application notes for our products on different topics such as:-
+🔦We have developed application notes for our products on different topics such as:-
 
 
  </p>
